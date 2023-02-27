@@ -2,7 +2,7 @@
 license: openrail
 ---
 
-This is the pretrained weights and some other detector weights of ControlNet.
+This is the pretrained weights and some other detector weights of ControlNet ([paper](https://arxiv.org/abs/2302.05543)).
 
 See also: https://github.com/lllyasviel/ControlNet
 
