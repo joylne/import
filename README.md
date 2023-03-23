@@ -1,5 +1,6 @@
 ---
 license: openrail
+library_name: diffusers
 ---
 
 This is the pretrained weights and some other detector weights of ControlNet.
@@ -85,4 +86,3 @@ We also thank all authors for making Controlnet DEMOs, including but not limited
 # Misuse, Malicious Use, and Out-of-Scope Use
 
 The model should not be used to intentionally create or disseminate images that create hostile or alienating environments for people. This includes generating images that people would foreseeably find disturbing, distressing, or offensive; or content that propagates historical or current stereotypes.
-
